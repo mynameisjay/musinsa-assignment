@@ -4,7 +4,7 @@ import com.musinsa.assignment.common.exception.ApiException;
 import com.musinsa.assignment.common.exception.ErrorType;
 import com.musinsa.assignment.domain.brand.entity.Brand;
 import com.musinsa.assignment.domain.brand.repository.BrandRepository;
-import com.musinsa.assignment.domain.category.entity.repository.CategoryRepository;
+import com.musinsa.assignment.domain.category.repository.CategoryRepository;
 import com.musinsa.assignment.domain.product.dto.*;
 import com.musinsa.assignment.domain.product.entity.Product;
 import com.musinsa.assignment.domain.product.repository.ProductRepository;

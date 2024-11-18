@@ -1,4 +1,4 @@
-package com.musinsa.assignment.domain.category.entity.repository;
+package com.musinsa.assignment.domain.category.repository;
 
 import com.musinsa.assignment.domain.category.entity.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
